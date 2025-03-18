@@ -299,9 +299,9 @@ function App() {
         </div>
       </div>
       <footer className="text-center text-sm text-gray-500 mt-8">
-        Made with ❤️ by{" "}
+        Made by{" "}
         <a
-          href="https://www.linkedin.com/in/jason-ng-94411119a/"
+          href="https://www.linkedin.com/in/azrizzz/"
           className="hover:text-indigo-600 hover:underline"
           onClick={handleFooterClick}
         >
