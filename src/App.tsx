@@ -132,7 +132,7 @@ function App() {
   };
 
   const handleFooterClick = () => {
-    window.open("https://www.linkedin.com/in/jason-ng-94411119a/", "_blank");
+    window.open("https://www.linkedin.com/in/azrizzz/", "_blank");
   };
 
   return (
